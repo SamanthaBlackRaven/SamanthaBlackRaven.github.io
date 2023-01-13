@@ -19,3 +19,6 @@ Summer Rose
 
 Summer Rose's Emblem
 ![image](https://user-images.githubusercontent.com/122419165/212211286-67c8206b-6784-4a6e-8fef-10427990477b.png)
+
+Summer Rose Reveal
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7fcy0NS4rb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
