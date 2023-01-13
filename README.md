@@ -7,3 +7,6 @@ Raven
 
 Raven Branwen
 ![image](https://user-images.githubusercontent.com/122419165/212208599-d8ac8bc7-645f-42e8-b6cf-3b50813da979.png)
+
+Raven Branwen's Emblem
+![image](https://user-images.githubusercontent.com/122419165/212210731-afbbd95b-092c-48a8-aa73-f4feb6f21b10.png)
