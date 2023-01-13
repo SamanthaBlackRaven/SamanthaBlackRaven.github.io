@@ -2,9 +2,6 @@
 Samantha Abby Serrano
 LG Brebeuf
 
-Raven
-![image](https://user-images.githubusercontent.com/122419165/212208369-a8cff5a0-bbac-4ab2-b7e1-2a2d871a4bc5.png)
-
 Raven Branwen
 ![image](https://user-images.githubusercontent.com/122419165/212208599-d8ac8bc7-645f-42e8-b6cf-3b50813da979.png)
 
@@ -22,3 +19,12 @@ Summer Rose's Emblem
 
 Summer Rose Reveal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7fcy0NS4rb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Qrow Branwen 
+![image](https://user-images.githubusercontent.com/122419165/212331500-7f5809bd-375e-4419-9d20-6147a0507f01.png)
+
+Qrow Branwen's Emblem 
+![image](https://user-images.githubusercontent.com/122419165/212331909-7481e883-05d5-4106-a9da-c0d37a378fad.png)
+
+Qrow Branwen Vs Tyrian Callows
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AadJxdYQR-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
