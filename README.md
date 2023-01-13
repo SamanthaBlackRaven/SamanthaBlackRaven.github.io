@@ -2,6 +2,9 @@
 Samantha Abby Serrano
 LG Brebeuf
 
+Team STRQ
+![image](https://user-images.githubusercontent.com/122419165/212348756-a47c121a-0ee7-4254-b728-06bdf6e0661c.png)
+
 Raven Branwen
 ![image](https://user-images.githubusercontent.com/122419165/212208599-d8ac8bc7-645f-42e8-b6cf-3b50813da979.png)
 
