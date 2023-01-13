@@ -28,3 +28,12 @@ Qrow Branwen's Emblem
 
 Qrow Branwen Vs Tyrian Callows
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AadJxdYQR-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Taiyang Xiao Long
+![image](https://user-images.githubusercontent.com/122419165/212335741-939d23cc-c75b-4cee-88f6-1c8a8c279910.png)
+
+Taiyang Xiao Long's Emblem
+![image](https://user-images.githubusercontent.com/122419165/212336087-9ed61f9a-7c95-40f4-b618-ccf3497eaa7d.png)
+
+Taiyang vs Yang Sparring Match 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/juefl6MciVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
