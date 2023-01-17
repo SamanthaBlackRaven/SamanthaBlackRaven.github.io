@@ -2,6 +2,9 @@
 Samantha Abby Serrano
 LG Brebeuf
 
+Dog's Giving Life Lessons
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yt4AX6sMHV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Team STRQ
 ![image](https://user-images.githubusercontent.com/122419165/212348756-a47c121a-0ee7-4254-b728-06bdf6e0661c.png)
 
