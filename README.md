@@ -40,3 +40,12 @@ Taiyang Xiao Long's Emblem
 
 Taiyang vs Yang Sparring Match 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juefl6MciVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Ruby Rose 
+![image](https://user-images.githubusercontent.com/122419165/212818926-601fa659-19a3-447b-a1b7-eafc0b620d74.png)
+
+Ruby Rose's Emblem
+![image](https://user-images.githubusercontent.com/122419165/212818998-031ee0ef-9a65-41f5-a16b-0b932878de77.png)
+
+Ruby Rose Character Short Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M0WeiG2-HRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
