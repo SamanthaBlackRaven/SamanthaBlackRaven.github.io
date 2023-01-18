@@ -55,3 +55,24 @@ Ruby Rose's Emblem
 
 Ruby Rose Character Short Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0WeiG2-HRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Weiss Schnee
+![image](https://user-images.githubusercontent.com/122419165/213067889-2e8fdf3b-98cd-4efc-a63f-394b40e8d8b4.png)
+
+Weiss Schnee's Emblem
+![image](https://user-images.githubusercontent.com/122419165/213067991-67760709-88ad-4678-a3a0-9ff95f2f6ebd.png)
+
+Weiss Schnee Character Short Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bZAS_rzgCE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Blake Belladonna
+![image](https://user-images.githubusercontent.com/122419165/213068291-27b81d82-e3b3-49a7-8f14-a81bec7983f3.png)
+
+Blake Belladonna's Emblem
+![image](https://user-images.githubusercontent.com/122419165/213068433-6c70334f-f3e9-4270-8978-6f5865a83977.png)
+
+Blake Belladonna Character Short Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mTJzFCebdvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
