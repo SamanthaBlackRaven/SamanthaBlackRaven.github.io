@@ -78,7 +78,7 @@ Yang Xiao Long
 ![image](https://user-images.githubusercontent.com/122419165/213068975-1181cd01-d16a-4800-b919-d45d700fcbb4.png)
 
 Yang Xiao Long's Emblem
-![image](https://user-images.githubusercontent.com/122419165/213069095-f7e07361-5bb4-4026-8ff8-405a9376aa29.png)
+![image](https://user-images.githubusercontent.com/122419165/213069947-2b3318f7-e49c-422b-bd9c-2a04e13eb54c.png)
 
 Yang Xiao Long Character Short Video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Sn8BGKOv6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
