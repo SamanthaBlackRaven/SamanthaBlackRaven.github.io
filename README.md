@@ -47,6 +47,9 @@ Taiyang Xiao Long's Emblem
 Taiyang vs Yang Sparring Match 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juefl6MciVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Team RWBY
+![image](https://user-images.githubusercontent.com/122419165/213592834-a9d171ca-f57e-4dea-83a0-d816c9561cd9.png)
+
 Ruby Rose 
 ![image](https://user-images.githubusercontent.com/122419165/212818926-601fa659-19a3-447b-a1b7-eafc0b620d74.png)
 
